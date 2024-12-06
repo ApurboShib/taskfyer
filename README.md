@@ -1,3 +1,5 @@
+First you go to backend folder, then create env file in the root of the backend folder and then, follow this instructions.
+
 ## Add these variables in your .env file 
 
 * MONGO_URI=your_mongo_uri
@@ -5,6 +7,17 @@
 * CLIENT_URL=http://localhost:3000 or any localhost port that you are using
 * PORT=8000
 
+now
+```
+npm install 
+npm run start
+```
+
+now go to client folder then, 
+```
+npm install 
+npm run dev
+```
 Taskfyer
 <br>
 Taskfyer is a task management and goal-tracking web application built with the MERN stack. It’s designed to simplify your daily routine by helping you organize tasks, set priorities, track progress, and achieve your goals efficiently. Whether you're managing work, studies, or personal projects, Taskfyer keeps you on track.
