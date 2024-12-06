@@ -45,8 +45,9 @@ Setup Instructions
 Follow these steps to get Taskfyer up and running on your local machine.
 
 Prerequisites
+<br>
 Before starting, ensure you have the following installed:
-
+<br>
 Node.js: Download from Node.js official website
 npm or yarn: Installed with Node.js
 MongoDB: Running locally or via a cloud service like MongoDB Atlas.
